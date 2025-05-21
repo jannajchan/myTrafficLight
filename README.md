@@ -3,24 +3,24 @@ About My Traffic Light App.
 
 🧠 Case Study: Simulate the traffic light<br/>
 
-🧩 The Project structure:
-    📁 my-apps                              ← This is the folder I'll turn into a GitHub repo
-        └── myTrafficLight/
-            ├── static/                     ← Directory for static assets
-            │   ├── css/
-            │   │   ├── styles.css
-            │   │   └── traffic-light.css
-            │   ├── js/
-            │   │   └── traffic-light.js
-            │   └── favicon.ico
-            ├── templates/                  ← Directory for HTML templates
-            │   ├── home.html               ← Welcome page
-            │   └── traffic-light.html
-            ├── .gitignore                  ← (optional, but recommended)
-            ├── app.py                      ← Main Flask application file
-            ├── LICENSE
-            ├── README.md                   ← (optional, to explain the project)
-            └── requirements.txt
+🧩 The Project structure:<br/>
+    📁 my-apps                              ← This is the folder I'll turn into a GitHub repo<br/>
+        └── myTrafficLight/<br/>
+            ├── static/                     ← Directory for static assets<br/>
+            │   ├── css/<br/>
+            │   │   ├── styles.css<br/>
+            │   │   └── traffic-light.css<br/>
+            │   ├── js/<br/>
+            │   │   └── traffic-light.js<br/>
+            │   └── favicon.ico<br/>
+            ├── templates/                  ← Directory for HTML templates<br/>
+            │   ├── home.html               ← Welcome page<br/>
+            │   └── traffic-light.html<br/>
+            ├── .gitignore                  ← (optional, but recommended)<br/>
+            ├── app.py                      ← Main Flask application file<br/>
+            ├── LICENSE<br/>
+            ├── README.md                   ← (optional, to explain the project)<br/>
+            └── requirements.txt<br/>
 
 🚀 Deployment<br/>
 I created this project as a learning exercise to simulate the traffice light and deployed it online.<br/>
