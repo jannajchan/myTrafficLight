@@ -45,3 +45,12 @@ Deployed it to online platforms:<br/>
     Set environment to Python 3.
 
 <hr>
+
+📚 What I’ve Learned<br/>
+Key lessons from this project:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Restructuring my-apps project and deploying this myTrafficLight with Flask Web UI on Render.com<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Creating a basic traffic light simulation.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Adding a feature to track how many times each button is pressed.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 <br/>

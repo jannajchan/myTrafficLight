@@ -31,7 +31,15 @@
                             </div>
                             <script src="{{ url_for('static', filename='js/traffic-light.js') }}"></script>
                         </div>
-                        <div class="text-center mt-4">
+                    </div>
+                    <div class="card-footer text-body-secondary">
+                        <div id="countDisplay" class="mt-4">
+                            <h4 class="text-center mb-3">ประวัติการกดปุ่ม</h4>
+                            <p><strong>🔴 ปุ่ม Stop ถูกกดแล้ว:</strong> <span id="stopCount">{{ counter.stop }}</span> ครั้ง</p>
+                            <p><strong>🟡 ปุ่ม Slow ถูกกดแล้ว:</strong> <span id="slowCount">{{ counter.slow }}</span> ครั้ง</p>
+                            <p><strong>🟢 ปุ่ม Go ถูกกดแล้ว:</strong> <span id="goCount">{{ counter.go }}</span> ครั้ง</p>
+                        </div>
+                        <div class="text-center mb-3">
                             <a href="{{ url_for('home') }}" class="btn btn-custom-blue btn-lg">กลับสู่หน้าแรก</a>
                         </div>
                     </div>
