@@ -1,5 +1,5 @@
 # myTrafficLight
-About My Traffic Light App.
+About My Traffic Light Web App.
 
 🧠 Case Study: Simulate the traffic light<br/>
 
@@ -23,7 +23,7 @@ About My Traffic Light App.
             └── requirements.txt<br/>
 
 🚀 Deployment<br/>
-I created this project as a learning exercise to simulate the traffice light and deployed it online.<br/>
+I created this project as a learning exercise to simulate the traffic light and deployed it online.<br/>
 
 To publish the app on GitHub:
 
